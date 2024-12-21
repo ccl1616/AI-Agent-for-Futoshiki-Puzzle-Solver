@@ -4,6 +4,7 @@ Developed an AI agent for Futoshiki puzzle solver, employing a backtracking sear
 
 ## Introduction
 [Futoshiki](https://www.futoshiki.com/) is a CSP (Constraint Satisfaction Problem) puzzle similar to Sudoku. The objective is to fill an n×n grid with numbers 1 to n such that each number appears exactly once in each row and column, while satisfying additional inequality constraints between adjacent cells. This project implements an AI agent to efficiently solve Futoshiki puzzles of various sizes up to 7×7.
+
 ![Puzzel](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Futoshiki1.png/400px-Futoshiki1.png)
 
 
